@@ -1,3 +1,6 @@
+# UNMAINTAINED
+Unfortunately, I'm no longer working on Strapi projects. Feel free to fork the project, or send PRs.
+
 # Strapi plugin strapi-plugin-copy-component
 
 A Strapi plugin that allows you to copy components from another entity.
