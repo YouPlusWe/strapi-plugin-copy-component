@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-copy-component",
+  "name": "strapi-plugin-copy-component-clone",
   "version": "1.0.1",
   "description": "A Strapi plugin that allows you to copy components from another entity.",
   "strapi": {
